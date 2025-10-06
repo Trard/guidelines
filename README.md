@@ -14,4 +14,5 @@
 ## Содержание
 
 1. [Git](../../blob/master/git.md)
-2. Github / Gitlab
+2. [Код](../../blob/master/code.md)
+3. [Miro](../../blob/master/miro.md)
