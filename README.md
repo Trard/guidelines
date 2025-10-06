@@ -12,5 +12,5 @@
 
 ## Содержание
 
-1. Git
+1. [Git](../../blob/master/git.md)
 2. Github / Gitlab
